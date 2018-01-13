@@ -1,0 +1,26 @@
+{
+  "name": "koa-session-memstore",
+  "version": "1.0.0",
+  "description": "koa session 内存存储",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiST-GIT/koa-session-memstore.git"
+  },
+  "keywords": [
+    "koa",
+    "session",
+    "memory",
+    "store",
+    "memstore"
+  ],
+  "author": "LiST",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiST-GIT/koa-session-memstore/issues"
+  },
+  "homepage": "https://github.com/LiST-GIT/koa-session-memstore"
+}
